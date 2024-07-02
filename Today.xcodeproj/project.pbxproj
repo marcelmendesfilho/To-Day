@@ -187,6 +187,7 @@
 				en,
 				Base,
 				de,
+				"pt-BR",
 			);
 			mainGroup = 2675DBDB2974BA6500492B03;
 			packageReferences = (

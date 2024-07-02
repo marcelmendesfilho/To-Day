@@ -8,6 +8,12 @@
             "state" : "translated",
             "value" : ""
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : ""
+          }
         }
       }
     },
@@ -18,6 +24,12 @@
             "state" : "translated",
             "value" : "%@ abgeschlossen"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ completos"
+          }
         }
       }
     },
@@ -27,6 +39,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ noch nicht abgeschlossen"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ ainda não prontos"
           }
         }
       }
@@ -44,6 +62,12 @@
             "state" : "new",
             "value" : "%1$lld of %2$lld done"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$lld de %2$lld prontos"
+          }
         }
       }
     },
@@ -53,6 +77,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%lld übrig"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld restantes"
           }
         }
       }
@@ -64,6 +94,12 @@
             "state" : "translated",
             "value" : "Über To-Day"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sober To-Day"
+          }
         }
       }
     },
@@ -73,6 +109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Über To-Day…"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sobre To-Day…"
           }
         }
       }
@@ -84,6 +126,12 @@
             "state" : "translated",
             "value" : "Kauf mir einen Kaffee"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pague-me um café"
+          }
         }
       }
     },
@@ -93,6 +141,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Auf Aktualisierungen prüfen …"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verificar atualizações…"
           }
         }
       }
@@ -104,6 +158,12 @@
             "state" : "translated",
             "value" : "Fertig"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "completo"
+          }
         }
       }
     },
@@ -113,6 +173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abgeschlossen"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Completado"
           }
         }
       }
@@ -124,6 +190,12 @@
             "state" : "translated",
             "value" : "Lösche %@"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apagar %@"
+          }
         }
       }
     },
@@ -133,6 +205,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle löschen"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apagar todos"
           }
         }
       }
@@ -144,6 +222,12 @@
             "state" : "translated",
             "value" : "Sofort löschen"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apagar imediatamente"
+          }
         }
       }
     },
@@ -153,6 +237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Einträge bearbeiten"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar tarefas"
           }
         }
       }
@@ -164,6 +254,12 @@
             "state" : "translated",
             "value" : "Einträge bearbeiten"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar tarefas"
+          }
         }
       }
     },
@@ -173,6 +269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Einträge bearbeiten…"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Editar tarefas…"
           }
         }
       }
@@ -184,6 +286,12 @@
             "state" : "translated",
             "value" : "Erstelle einen Eintrag und drücke die Enter-Taste"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entre nova tarefa e pressione Return"
+          }
         }
       }
     },
@@ -193,6 +301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Erstelle einen Eintrag und drücke die Enter-Taste:"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entre nova tarefa e pressione Return:"
           }
         }
       }
@@ -204,6 +318,12 @@
             "state" : "translated",
             "value" : "Jede App, die ich fand, hatte eine tolle Liste von Funktionen, von denen ich die meisten nicht wollte, also habe ich meine eigene geschrieben."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cada app que eu encontrei tinha uma lista incrível de funcionalidades, a maioria das quais eu não queria, então escrevi o meu próprio."
+          }
         }
       }
     },
@@ -213,6 +333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Finde mich auf Mastodon"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Encontre-me no Mastodon"
           }
         }
       }
@@ -224,6 +350,12 @@
             "state" : "translated",
             "value" : "Aus Menü ausblenden"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocultar do menu"
+          }
         }
       }
     },
@@ -233,6 +365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ich wollte eine sehr einfache Menüleisten-App, die eine Liste von Elementen anzeigt, die ich im Laufe des Tages abhaken kann. Nichts Langfristiges, nur Tag für Tag."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Eu procurei um app de barra de menu bem simples que mostrasse uma lista de tarefas que eu poderia marcar como prontas ao longo do dia. Nada da  prazos longos, apenas o dia-a-dia."
           }
         }
       }
@@ -244,6 +382,12 @@
             "state" : "translated",
             "value" : "Wenn du mich kontaktieren möchtest, ich bin [@troz@mastodon.social](https://mastodon.social/@troz) auf Mastodon:"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se você quiser entrar em contato comigo, eu sou [@troz@mastodon.social] (https://mastodon.social/@troz) no Mastodon:"
+          }
         }
       }
     },
@@ -253,6 +397,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bei Anmeldung starten"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abrir no login"
           }
         }
       }
@@ -264,6 +414,12 @@
             "state" : "translated",
             "value" : "Alle als abgeschlossen markieren"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marcar todos como completos"
+          }
         }
       }
     },
@@ -273,6 +429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alle als nicht abgeschlossen markieren"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Marcar todos como incompletos"
           }
         }
       }
@@ -284,6 +446,12 @@
             "state" : "translated",
             "value" : "Zum Untermenü wechseln"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mover para um submenu"
+          }
         }
       }
     },
@@ -293,6 +461,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Keine abgeschlossenen Einträge."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tarefas não completadas."
           }
         }
       }
@@ -304,6 +478,12 @@
             "state" : "translated",
             "value" : "Beende To-Day"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sair do To-Day"
+          }
         }
       }
     },
@@ -313,6 +493,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abgeschlossene anzeigen"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exibição dos completados"
           }
         }
       }
@@ -324,6 +510,12 @@
             "state" : "translated",
             "value" : "An das Ende sortieren"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Colocar no final"
+          }
         }
       }
     },
@@ -333,6 +525,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Durchschlagen"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Riscar"
           }
         }
       }
@@ -344,6 +542,12 @@
             "state" : "translated",
             "value" : "Es gibt nur zwei Einstellungen: Mit **Abgeschlossene anzeigen** kannst du auswählen, wie die abgeschlossenen Aufgaben angezeigt, ausgeblendet oder gelöscht werden sollen, und mit **Bei Anmeldung starten** legst du fest, ob die App automatisch gestartet werden soll, wenn du dich anmeldest."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Existem apenas dois ajustes: **Exibição dos completados** permite você escolher como tarefas completadas serão exibidas, ocultadas ou apagadas e **Abrir no login** permite você escolher se o app deve iniciar automaticamente ao logar."
+          }
         }
       }
     },
@@ -354,12 +558,24 @@
             "state" : "translated",
             "value" : "Diese App ist kostenlos, aber wenn du unterstützen möchtest, gehe bitte wie folgt vor:"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este app é gratuito, mas se você quiser suportá-lo, por favor:"
+          }
         }
       }
     },
     "To-Day" : {
       "localizations" : {
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To-Day"
+          }
+        },
+        "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "To-Day"
@@ -380,6 +596,12 @@
             "state" : "new",
             "value" : "To-Day: %1$lld of %2$lld done"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To-Day: %1$lld de %2$lld concluídos"
+          }
         }
       }
     },
@@ -389,6 +611,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "To-Day: %lld übrig"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To-Day: %lld restantes"
           }
         }
       }
@@ -400,6 +628,12 @@
             "state" : "translated",
             "value" : "To-Day: Fertig"
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To-Day: completo"
+          }
         }
       }
     },
@@ -410,6 +644,12 @@
             "state" : "translated",
             "value" : "Übersetzung und VoiceOver Hilfe durch [Sebastian Dellit](www.blindzeln.org)."
           }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajuda com tradução e VoiceOver por [Sebastian Dellit] (www.blindzeln.org)."
+          }
         }
       }
     },
@@ -419,6 +659,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verwende den Menüpunkt **Einträge bearbeiten…**, um etwas hinzuzufügen, zu löschen und zu bearbeiten. Markiere im Menü einen Eintrag, um ihn als abgeschlossen oder nicht abgeschlossen zu markieren."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utilize o menu **Editar tarefas...** para adicionar, apagar e editar suas tarefas. Selecione as tarefas no menu para marcá-las como completas ou incompletas."
           }
         }
       }
